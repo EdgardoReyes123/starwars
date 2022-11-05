@@ -1,3 +1,62 @@
 /* 
     General Styles
 */
+/* 
+    General Styles used on every website (Don't Repeat Yourself)
+*/
+body{
+    background: white;
+}
+.navitulo{
+    text-align: center;
+    color:aquamarine;
+    font-size: 120%;
+}
+.imgdetails{
+    width: 400px;
+    height: 350px;
+}
+.cardDetail{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    font-size: 150%;
+    color: aquamarine;
+}
+.titulo{
+    color: aquamarine;
+    padding-left: 8%;
+}
+.card{
+    
+    background: whitesmoke;
+    margin-left: 8.3%;
+}
+.imgnavbar{
+    padding-top: 15%;
+    width:  80px;
+    height: 80px;
+}
+.favorites{
+    font-size: 120%;
+}
+.imgcard{
+    width: 250px;
+    height: 260px;
+}
+.detalles{
+    text-align: center;
+}
+.mini-details{
+    text-align: center;
+    margin: auto;
+}
+.corazon{
+    font-size: 120%;
+}
+.mas{
+    display: none;
+}
+.card-details{
+    display: flex;
+}
